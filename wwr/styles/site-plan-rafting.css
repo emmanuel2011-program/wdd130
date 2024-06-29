@@ -17,7 +17,7 @@ body {
     --accent2-color: #D1D3C4;
 
     --heading-font: 'Roboto';
-    --paragraph-font:'open (sans)';
+    --paragraph-font:'open(sans)';
     --nav-background-color: #351431;
     --nav-link-color: #775253;
     --nav-hover-link-color: #DCC696;
@@ -26,21 +26,30 @@ body {
 
 }
 body {
-    font-family: Roboto;
+    
     max-width: 960px;
     padding: 20px;
 }
 
-h1,h2,h3,h4,h5,h6 {
-font-family: Roboto;
-color: #351431;
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--heading-font);
+    color: var(--headline-color-on-white);
 }
+
+  h2 {
+    text-align: center;
+}
+
+
 header {
     padding: 20px;
     background-color: #BDC696;
 }
+
 p {
-   padding: 25px
+   font-family:Var(--heading-font);
+   color: var(--headline-color-on-white);
+   padding: 25px;
 }
 nav {
     background-color:#351431;
