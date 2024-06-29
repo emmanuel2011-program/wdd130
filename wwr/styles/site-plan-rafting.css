@@ -4,7 +4,7 @@
 
 
 body {
-    font-family: var(--roboto-static);
+    font-family: roboto;
     max-width: 960px;
     padding: 20px;
 }
@@ -26,34 +26,34 @@ body {
 
 }
 body {
-    font-family: var(Roboto);
+    font-family: Roboto;
     max-width: 960px;
     padding: 20px;
 }
 
 h1,h2,h3,h4,h5,h6 {
-font-family: var(Roboto);
-color:   var(#351431);
+font-family: Roboto;
+color: #351431;
 }
 header {
     padding: 20px;
-    background-color: var(#BDC696);
+    background-color: #BDC696;
 }
 p {
    padding: 25px
 }
 nav {
-    background-color:var(#351431);
+    background-color:#351431;
     font-size: 1.2rem;
     display: flex;
 }
 nav a {
     display: block;
-    color: var(#775253);
+    color: #775253;
     text-decoration: none;
     padding:1rem;
 }
 nav a:hover {
-    color: var(#DCC696);
-    background-color: var(#D1D3C4);
+    color: #DCC696;
+    background-color: #D1D3C4;
 }
