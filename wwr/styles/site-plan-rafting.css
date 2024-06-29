@@ -21,7 +21,7 @@ body {
     --nav-background-color: #351431;
     --nav-link-color: #775253;
     --nav-hover-link-color: #DCC696;
-    --nav-hoverback-ground-color: #D1D3C4;
+    --nav-hover-background-color: #D1D3C4;
 
 
 }
@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 
 header {
     padding: 20px;
-    background-color: #BDC696;
+    background-color: 
 }
 
 p {
