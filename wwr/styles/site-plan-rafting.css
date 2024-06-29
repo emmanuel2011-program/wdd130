@@ -53,7 +53,7 @@ nav a {
     text-decoration: none;
     padding:1rem;
 }
-nav a:hover{
+nav a:hover {
     color: var(#DCC696);
     background-color: var(#D1D3C4);
 }
