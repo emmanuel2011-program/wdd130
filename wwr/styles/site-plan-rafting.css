@@ -13,7 +13,7 @@ body {
 :root {
     --primary-color: #351431;
     --secondary-color: #775253;
-    --accent: 1px color #BDC696;
+    --accent1: 1px color #BDC696;
     --accent2-color: #D1D3C4;
 
     --heading-font: 'Roboto';
@@ -21,38 +21,39 @@ body {
     --nav-background-color: #351431;
     --nav-link-color: #775253;
     --nav-hover-link-color: #DCC696;
-    --nav-hoverbackground-color: #D1D3C4;
+    --nav-hoverback-ground-color: #D1D3C4;
 
 
 }
 body {
-    font-family: var(--paragraph-font);
+    font-family: var(Roboto);
     max-width: 960px;
     padding: 20px;
 }
 
 h1,h2,h3,h4,h5,h6 {
-font-family: var(--roboto-static);
-color:   var(--primary-color);
+font-family: var(Roboto);
+color:   var(#351431);
 }
 header {
     padding: 20px;
-    background-color: var(--accent1-color);}
+    background-color: var(#BDC696);
+}
 p {
    padding: 25px
 }
 nav {
-    background-color:var(--nav-background-color);
+    background-color:var(#351431);
     font-size: 1.2rem;
     display: flex;
 }
 nav a {
     display: block;
-    color: var(--nav-link-color);
+    color: var(#775253);
     text-decoration: none;
     padding:1rem;
 }
 nav a:hover{
-    color: var(--nav-hover-link-color);
-    background-color: var(--nav-hover-background-color);
+    color: var(#DCC696);
+    background-color: var(#D1D3C4);
 }
