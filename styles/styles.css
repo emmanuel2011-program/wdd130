@@ -3,10 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+ /* Class Selectors */
 
 .box {
-    /* Class Selectors */
+   
     margin: 1rem;
     border: 1px solid rgba(0,0,0,.1);
     padding: 1rem;
