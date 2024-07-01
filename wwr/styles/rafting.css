@@ -11,13 +11,13 @@
         
 }
 h1, h2, h3, h4, h5, h6 {
-        font-family: var(--Roboto);
+        font-family: var(--heading-font);
         color: var(--);
         /* Add other styles as needed */
       }
       
       p {
-        font-family: var(--font-family);
+        font-family: var(--paragraph-font);
         color: var(--secondary-color);
         /* Add other styles as needed */
       }
