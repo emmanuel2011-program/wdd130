@@ -8,16 +8,35 @@
         --heading-font: 'Roboto';
         
         --paragraph-font:'open(sans)';
-        --nav-background-color: #351431;
-        --nav-link-color: #775253;
-        --nav-hover-link-color: #DCC696;
-        --nav-hover-background-color: #D1D3C4;
+        
 }
-
 h1, h2, h3, h4, h5, h6 {
-
-
-}
-p {
-    
-}
+        font-family: var(--Roboto);
+        color: var(--);
+        /* Add other styles as needed */
+      }
+      
+      p {
+        font-family: var(--font-family);
+        color: var(--secondary-color);
+        /* Add other styles as needed */
+      }
+      
+      /* Adding colors to the fonts */
+      body {
+        color: var(--primary-color); /* Default font color */
+      }
+      
+      /* Removing underlines from social media links */
+      .social-media-link {
+        text-decoration: none;
+      }
+      
+      /* Limiting the width of the page */
+      .container {
+        max-width: 1200px; /* Adjust as per your design */
+        margin: 0 auto; /* Center align the content */
+        padding: 0 20px; /* Add padding for content */
+      }
+      
+      
