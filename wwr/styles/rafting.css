@@ -17,15 +17,26 @@ h1, h2 ,h3, h4, h5, h6 {
 
 
 }
-.hero{
+
+.hero {
   position: relative;
 }
 
+.hero img {
+  width: 100%;
+  height: auto;
+}
 .hero article {
   position: absolute;
   max-width: 80%;
   top: 8rem;
 }
+.hero article img {
+  width: 200px;
+  float: right;
+
+}
+
 
 p {
   padding: 25px;
