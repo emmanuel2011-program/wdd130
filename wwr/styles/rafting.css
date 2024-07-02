@@ -27,6 +27,9 @@ p {
 
 
 }
+.social-media-link img {
+  width: 80px;
+}
 
 .container {
   max-width: 12px; /* Adjust the maximum width as per your design */
