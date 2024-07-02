@@ -29,11 +29,23 @@ p {
 }
 
 .container {
-  max-width: 1200px; /* Adjust the maximum width as per your design */
+  max-width: 12px; /* Adjust the maximum width as per your design */
   margin: 0 auto; /* Center align the container */
   padding: 0 20px; /* Optional: Add padding to the sides */
 }
+.div-hero {
+  position: relative;
+}
+
+
+h1{
+  position: absolute;
+}
+
+
       
+
+
       
       
 
