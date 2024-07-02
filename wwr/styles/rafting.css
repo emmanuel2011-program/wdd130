@@ -21,7 +21,18 @@ p {
   padding: 25px;
 
 }
+.social-media-link a {
+  text-decoration: none;
+  
 
+
+}
+
+.container {
+  max-width: 1200px; /* Adjust the maximum width as per your design */
+  margin: 0 auto; /* Center align the container */
+  padding: 0 20px; /* Optional: Add padding to the sides */
+}
       
       
       
