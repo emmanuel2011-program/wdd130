@@ -17,16 +17,23 @@ h1, h2 ,h3, h4, h5, h6 {
 
 
 }
+.hero{
+  position: relative;
+}
+
+.hero article {
+  position: absolute;
+  max-width: 80%;
+  top: 8rem;
+}
+
 p {
   padding: 25px;
 
 }
 .social-media-link a {
   text-decoration: none;
-  
-
-
-}
+  }
 .social-media-link img {
   width: 80px;
 }
