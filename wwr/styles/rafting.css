@@ -30,6 +30,7 @@ h1, h2 ,h3, h4, h5, h6 {
   position: absolute;
   max-width: 80%;
   top: 8rem;
+  background-color: rgb(53, 20, 49, .3 )
 }
 .hero article img {
   width: 200px;
