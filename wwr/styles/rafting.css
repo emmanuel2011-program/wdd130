@@ -21,6 +21,13 @@ p {
 
 }
 
+.social-media-link a {
+  text-decoration: none;
+  }
+.social-media-link img {
+  width: 80px;
+}
+
 .hero {
   position: relative;
 }
@@ -53,12 +60,7 @@ h1 {
   background-color: rgb(53, 20, 49, .3 );
 }
 
-.social-media-link a {
-  text-decoration: none;
-  }
-.social-media-link img {
-  width: 80px;
-}
+
 
 
 
