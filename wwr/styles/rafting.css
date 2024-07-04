@@ -24,12 +24,15 @@ p {
 .social-media-link a {
   text-decoration: none;
   }
+
 .social-media-link img {
   width: 80px;
 }
 
 .hero {
   position: relative;
+  justify-content: center;
+  align-items: center;
 }
 
 .hero img {
@@ -44,8 +47,6 @@ p {
 h1 {
   position: absolute;
   top: 1rem;
-  float: rigt;
-
 }
 
 
