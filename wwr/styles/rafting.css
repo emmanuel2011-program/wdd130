@@ -59,7 +59,9 @@ p {
   position: relative;
 }
 
-
+.div-hero-hi {
+position: absolute;
+}
 h1 {
   position: absolute;
 }
