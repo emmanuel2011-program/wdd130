@@ -40,7 +40,7 @@ h1 {
 .hero article {
   position: absolute;
   max-width: 80%;
-  top: 8rem;
+  top: 6rem;
   background-color: rgb(53, 20, 49, .3 );
 }
 .hero article img {
