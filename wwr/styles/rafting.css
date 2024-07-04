@@ -35,7 +35,9 @@ h1 {
   top: 2rem;
   
 }
-
+.div-hero {
+  position: relative;
+}
 
 .hero article {
   position: absolute;
@@ -61,9 +63,7 @@ h1 {
   margin: 0 auto; /* Center align the container */
   padding: 0 20px; /* Optional: Add padding to the sides */
 }
-.div-hero {
-  position: relative;
-}
+
 
 
 
