@@ -37,11 +37,17 @@ p {
   height: auto;
 }
 
+
+
+
+
 h1 {
   position: absolute;
-  top: 2rem;
-  
+  top: 1rem;
+
 }
+
+
 .div-hero {
   position: relative;
 }
