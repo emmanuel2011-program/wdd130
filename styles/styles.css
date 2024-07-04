@@ -1,32 +1,25 @@
-* { 
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
- /* Class Selectors */
-
-.box {
-   
-    margin: 1rem;
-    border: 1px solid rgba(0,0,0,.1);
-    padding: 1rem;
-    background-color: #5D70FC;
-    color:white;
+nav {
+    background-color: steelblue;
 }
 
-aside {
-    width: 20em;
-    text-align: center;
-    position: relative;
+nav a {
+    color: white;
+    display: block;
+    padding: 20px;
+}
+
+h1 {
+    color: steelblue;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border: 1px solid steelblue;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
     
-}
-
-main img {
-    /* i can add other declaration made to my image */
-    float: right;
-}
-aside h2 {
-    position: absolute;
-    top: 47px;
-    left: 150px;
+p {
+    padding: 10px;
 }
