@@ -48,6 +48,7 @@ p {
 h1 {
   position: absolute;
   top: 0rem;
+  background-color: rgba(20, 24, 53, 0.3);
 }
 
 
