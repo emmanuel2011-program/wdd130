@@ -12,11 +12,14 @@ nav a {
     display: block;
     padding: 0.5px;
     text-decoration: none;
+    font-size: 1.2rem;
     font-weight: 700;
 }
 
 h1 {
     color: steelblue;
+    border-bottom: 1px solid blue;
+
 }
 
 img {
