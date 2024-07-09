@@ -87,6 +87,16 @@ header {
   height: auto;
 }
 
+nav { 
+  text-align: right;
+}
+
+
+ .navigation {
+  display: flex;
+  list-style: none;
+ }
+
 
 
 
