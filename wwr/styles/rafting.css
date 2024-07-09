@@ -97,7 +97,7 @@ nav {
   list-style: none;
  }
 
- .history-section {
+ .section h2 {
   max-width: 800px;
   margin: 20px auto;
   background-color: #fff;
@@ -112,7 +112,7 @@ nav {
   margin-bottom: 10px;
 }
 
-.history-section p {
+.history p {
   font-size: 16px;
   color: #666;
   line-height: 1.5;
