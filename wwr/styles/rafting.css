@@ -97,6 +97,27 @@ nav {
   list-style: none;
  }
 
+ .history-section {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+ }
+   
+ .history-section h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.history-section p {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.5;
+}
+
 
 
 
