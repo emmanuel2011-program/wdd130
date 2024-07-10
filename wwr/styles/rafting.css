@@ -28,7 +28,10 @@ p {
 .social-media-link img {
   width: 60px;
 }
-
+a {
+   text-decoration: none;
+  
+}
 .hero {
   position: relative;
   display: flex;
@@ -72,30 +75,27 @@ h1 {
 
 
 header {
-  margin: 1rem auto;
+  
   display: grid;
-  grid-template-columns: 1fr 1fr 2fr;
-  align-items: center;
-  border-bottom: 1px solid #ccc;
-  max-width: 1000px;
-
+  grid-template-columns: 150px auto;
+  background-color: #351431;
+  
 }
 
- .logo img {
-  margin: 0 0.25rem 0 1rem;
-  width: 64px;
-  height: auto;
+ header img {
+  
+  width: 150px;
+  
 }
 
 nav { 
-  text-align: right;
-}
-
-
- .navigation {
+  justify-content: center;
   display: flex;
-  list-style: none;
+  align-items: center;
  }
+nav a {
+  padding: 1rem 2rem;
+}
 
  h2 {
   max-width: 800px;
@@ -111,13 +111,22 @@ nav {
   color: #333;
   margin-bottom: 10px;
 } */
-
-.history p {
-  font-size: 16px;
-  color: #666;
-  line-height: 1.5;
+.history {
+  display: grid;
+  grid-template-columns: 2fr 1fr 2fr;
+  padding: 2rem;
+  grid-gap: 2rem;
 }
 
+.history h2 {
+  text-align: center;
+  grid-column: 1/4;
+
+}
+.history img {
+  width: 300px;
+  height: auto;
+}
 
 
 
