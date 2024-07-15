@@ -27,6 +27,8 @@ p {
 
 .social-media-link img {
   width: 60px;
+  
+  
 }
 a {
    text-decoration: none;
@@ -78,11 +80,11 @@ header {
   
   display: grid;
   grid-template-columns: 150px auto;
-  background-color: #351431;
+  background-color:#BDC696 ;
   
 }
 
- header img {
+header img {
   
   width: 150px;
   
@@ -93,11 +95,12 @@ nav {
   display: flex;
   align-items: center;
  }
+
 nav a {
   padding: 1rem 2rem;
 }
 
- h2 {
+h2 {
   max-width: 800px;
   margin: 20px auto;
   background-color: #fff;
