@@ -136,6 +136,13 @@ footer {
   display: flex;
 }
 
+.adventure div {
+display: flex;
+flex-direction: row;
+
+
+  
+}
 
 
 
