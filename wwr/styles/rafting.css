@@ -27,6 +27,9 @@ p {
 
 .social-media-link img {
   width: 60px;
+  display: flex;
+  
+  
   
   
 }
@@ -131,7 +134,9 @@ h2 {
   height: auto;
 }
 
-
+footer {
+  display: flex;
+}
 
 
 
