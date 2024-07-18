@@ -134,6 +134,7 @@ h2 {
 .history h2 {
   text-align: center;
   grid-column: 1/4;
+  background-color: #351431;
 
 }
 .history img {
@@ -153,9 +154,14 @@ footer {
 .adventure div {
 display: flex;
 flex-flow: row; 
+
 }
 
 .adventure figure img {
   max-height: 100px;
+  
+}
+.adventure h2{
+  background-color: #351431;
 }
 
