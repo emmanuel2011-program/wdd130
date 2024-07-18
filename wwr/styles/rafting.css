@@ -23,10 +23,15 @@ p {
 
 .social-media-link a {
   text-decoration: none;
+  
+  
   }
 
 .social-media-link img {
   width: 60px;
+  height: 60px;
+  
+  
 
 }
 
@@ -133,6 +138,12 @@ h2 {
 
 footer {
   display: flex;
+  padding: 20px;
+  
+footer .social-media-link img {
+  float: right;
+}
+  
 }
 
 .adventure div {
