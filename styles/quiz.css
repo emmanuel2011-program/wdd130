@@ -1,6 +1,9 @@
 form {
     background-color: gray;
     display: grid;
+    padding: 5%;
+    
+    
     
 }
 body {
