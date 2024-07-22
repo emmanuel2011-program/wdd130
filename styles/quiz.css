@@ -1,5 +1,7 @@
 form {
     background-color: gray;
+    display: grid;
+    
 }
 body {
     background-color: black;
