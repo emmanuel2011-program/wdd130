@@ -11,6 +11,44 @@
         
 
       }
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.contact {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  width: 100%;
+}
+
+.employees div {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  gap: 7px;
+}
+
+
+
+.contact section {
+  margin: 0;
+
+}
+
+
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+
+
+
+
 h1, h2 ,h3, h4, h5, h6 {
   font-family: var(--heading-font);
   color: var( --accent1-color);
