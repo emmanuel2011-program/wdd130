@@ -176,6 +176,11 @@ nav a:hover {
   background-color: var(--accent2-color);
 }
 
+nav h1 {
+  color: black;
+  align-self: baseline;
+}
+
 h2 {
   max-width: 800px;
   margin: 20px auto;
