@@ -38,9 +38,10 @@
 }
 
 
-.employees figure{
+.employees figure {
   width: 33%;
 }
+
 .employees img {
   width: 100%;
 }
@@ -82,6 +83,7 @@ p {
   height: 60px;
   
 }
+
 .social-media-link {
   position: relative;
   left: 25%;
@@ -94,6 +96,7 @@ a {
    text-decoration: none;
   
 }
+
 .hero {
   position: relative;
   display: flex;
@@ -162,9 +165,11 @@ nav a {
   padding: 1rem 1rem;
   color: black;
 }
+
 nav a:hover {
   background-color: var(--accent2-color);
 }
+
 h2 {
   max-width: 800px;
   margin: 20px auto;
@@ -193,6 +198,7 @@ h2 {
   color: white;
 
 }
+
 .history img {
   width: 300px;
   height: auto;
@@ -218,7 +224,7 @@ flex-flow: row;
   max-height: 100px;
   
 }
-.adventure h2{
+.adventure h2 {
   background-color: #351431;
 }
 
