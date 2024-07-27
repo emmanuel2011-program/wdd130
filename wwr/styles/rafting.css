@@ -237,3 +237,7 @@ flex-flow: row;
   background-color: #351431;
 }
 
+.trip_info_table h2 {
+  background-color: var(--primary-color);
+  color: black;
+}
