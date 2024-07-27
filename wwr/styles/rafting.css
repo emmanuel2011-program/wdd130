@@ -239,7 +239,7 @@ flex-flow: row;
 
 .trip_info_table h2 {
   background-color: var(--primary-color);
-  color: solid black
+  color: greenyellow;
 }
 
 table {
