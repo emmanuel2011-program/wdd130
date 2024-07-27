@@ -22,7 +22,9 @@
   display: grid;
   grid-template-columns: 1fr 2fr;
   width: 100%;
+  
 }
+
 .contact h2, .employees h2 {
   background-color: var(--accent1-color);
   color: white;
