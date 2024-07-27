@@ -22,7 +22,8 @@
   display: grid;
   grid-template-columns: 1fr 2fr;
   width: 100%;
-  
+  gap: 100px;
+
 }
 
 .contact h2, .employees h2 {
@@ -30,10 +31,6 @@
   color: white;
 
 }
-
-
-
-
 
 
 .employees div {
