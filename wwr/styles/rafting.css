@@ -254,4 +254,6 @@ table {
   
   
 }
-
+.trips-wrapper img {
+  max-height: 500px;
+}
